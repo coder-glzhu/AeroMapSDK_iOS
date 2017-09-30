@@ -1,0 +1,2 @@
+# AeroMapSDK_iOS
+AeroMapSDK_iOS是对GoogleMap的封装，改变了地图数据来源，不需要翻墙可以轻松的在国内使用
