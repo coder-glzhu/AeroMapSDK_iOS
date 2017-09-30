@@ -1,0 +1,6 @@
+framework module AeroMapSDK_iOS {
+  umbrella header "AeroMapSDK_iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

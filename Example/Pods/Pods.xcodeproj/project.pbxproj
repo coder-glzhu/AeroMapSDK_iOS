@@ -1,0 +1,702 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		03FC49BBD2D412FC007C977E162AD1C1 /* AeroMapSDK_iOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 71C6C9737AA960E91F166470256563D2 /* AeroMapSDK_iOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0D56656610B01EE30FF07981B67BDCC5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		352572605C61798F7EF220C361929D9B /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DEF57D6D5E0C7C9B4AA69128DC661D9 /* ReplaceMe.m */; };
+		56A6F417CDC75232245ECB5892D5988D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		878BBA8DEDB0D5A04E4D12FE3B558510 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		8EACE26E4AFD8B96DAB3AC03ECDF383E /* AeroMapSDK_iOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 64502E269D900F07DB0B4921F39DF277 /* AeroMapSDK_iOS-dummy.m */; };
+		B3548EF8E82B2813D9A8CF7BD33B9907 /* Pods-AeroMapSDK_iOS_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 77684AD06737C3B9CC7088662D7932AF /* Pods-AeroMapSDK_iOS_Tests-dummy.m */; };
+		B74695085C29C030B5675CE067B19748 /* Pods-AeroMapSDK_iOS_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B915FC13A2FD7F69EFBD4E2AC111E329 /* Pods-AeroMapSDK_iOS_Example-dummy.m */; };
+		CFCAD23BA04088FF81752AF8E4F969DA /* Pods-AeroMapSDK_iOS_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1C75DE9DB50FFCCBF3629F3C261188C7 /* Pods-AeroMapSDK_iOS_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D9200F5B74EB26A03B858D4285E0FD5D /* Pods-AeroMapSDK_iOS_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0DAE69F6B1192CF99A4D5713E0F04C73 /* Pods-AeroMapSDK_iOS_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E1DE6D614EAB02ADD34D6A2DB1C68279 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3B277A21BFD9C95923D7971451BA1674;
+			remoteInfo = AeroMapSDK_iOS;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0B169A2314C4A01D27B53681601990DD /* Pods-AeroMapSDK_iOS_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AeroMapSDK_iOS_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		0BFEE2B636CB02D4BB0B0BBD088579A5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DAE69F6B1192CF99A4D5713E0F04C73 /* Pods-AeroMapSDK_iOS_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AeroMapSDK_iOS_Example-umbrella.h"; sourceTree = "<group>"; };
+		12CD52C6359975BED1F96B49611D3A3C /* AeroMapSDK_iOS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AeroMapSDK_iOS.xcconfig; sourceTree = "<group>"; };
+		1C75DE9DB50FFCCBF3629F3C261188C7 /* Pods-AeroMapSDK_iOS_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AeroMapSDK_iOS_Tests-umbrella.h"; sourceTree = "<group>"; };
+		2DE6CD6B9AB014B5860F4D020C329A93 /* Pods-AeroMapSDK_iOS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AeroMapSDK_iOS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		3E53E0B8FAB9D731109F68ECAF7C251B /* Pods-AeroMapSDK_iOS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AeroMapSDK_iOS_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		4DEF57D6D5E0C7C9B4AA69128DC661D9 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = AeroMapSDK_iOS/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		4F4E5F06241E554DD0464693D9A06B9D /* Pods-AeroMapSDK_iOS_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AeroMapSDK_iOS_Example-resources.sh"; sourceTree = "<group>"; };
+		4F81B2348DFE1B8746D8A4DA2BA36274 /* Pods-AeroMapSDK_iOS_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AeroMapSDK_iOS_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		526D8653364F593804065084052986C6 /* Pods-AeroMapSDK_iOS_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AeroMapSDK_iOS_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		5B54EF01F4829E965622A0C6CE70FCB3 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64502E269D900F07DB0B4921F39DF277 /* AeroMapSDK_iOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AeroMapSDK_iOS-dummy.m"; sourceTree = "<group>"; };
+		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		71C6C9737AA960E91F166470256563D2 /* AeroMapSDK_iOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AeroMapSDK_iOS-umbrella.h"; sourceTree = "<group>"; };
+		77684AD06737C3B9CC7088662D7932AF /* Pods-AeroMapSDK_iOS_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AeroMapSDK_iOS_Tests-dummy.m"; sourceTree = "<group>"; };
+		77A51DE49BF1CAFC67F20DBDB455B33E /* AeroMapSDK_iOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AeroMapSDK_iOS-prefix.pch"; sourceTree = "<group>"; };
+		7D5F11350AC31D17A9D10D30295FA06C /* Pods_AeroMapSDK_iOS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AeroMapSDK_iOS_Tests.framework; path = "Pods-AeroMapSDK_iOS_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		91DABF40359B8226DDC7C1532BAE62D2 /* Pods-AeroMapSDK_iOS_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AeroMapSDK_iOS_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		92347D49E85CA951CBAD8B41FE7EF7DA /* AeroMapSDK_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AeroMapSDK_iOS.framework; path = AeroMapSDK_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93B7E5B4B2E690E70C1C154C0C866A34 /* Pods-AeroMapSDK_iOS_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AeroMapSDK_iOS_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		97504ADAE1066E14F1B54D00C6733AB5 /* Pods-AeroMapSDK_iOS_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-AeroMapSDK_iOS_Tests.modulemap"; sourceTree = "<group>"; };
+		9B8F235C9C357A47F10A8D6B4F37723F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8FC0A3ADACD88C1A28D1580E8F5AFE3 /* AeroMapSDK_iOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = AeroMapSDK_iOS.modulemap; sourceTree = "<group>"; };
+		B915FC13A2FD7F69EFBD4E2AC111E329 /* Pods-AeroMapSDK_iOS_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AeroMapSDK_iOS_Example-dummy.m"; sourceTree = "<group>"; };
+		C8336CAD24A81799E36FC592EE6B6318 /* Pods-AeroMapSDK_iOS_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AeroMapSDK_iOS_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		C92870AA7CAD2B70FC019AE9EC0AB1FF /* Pods-AeroMapSDK_iOS_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AeroMapSDK_iOS_Tests-resources.sh"; sourceTree = "<group>"; };
+		CB076A0C1BCD29979229966C669469DE /* Pods-AeroMapSDK_iOS_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AeroMapSDK_iOS_Example-frameworks.sh"; sourceTree = "<group>"; };
+		D9FBD9F7FEFE682805B215B71F135123 /* Pods_AeroMapSDK_iOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AeroMapSDK_iOS_Example.framework; path = "Pods-AeroMapSDK_iOS_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBC5A8F4086096D0116FFEB09EFBAD6C /* Pods-AeroMapSDK_iOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AeroMapSDK_iOS_Example.release.xcconfig"; sourceTree = "<group>"; };
+		F5382FAC499DDCA88C8563567CE60B72 /* Pods-AeroMapSDK_iOS_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-AeroMapSDK_iOS_Example.modulemap"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8862C16868DF34AA65F80E1C85436E87 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				56A6F417CDC75232245ECB5892D5988D /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C071117CA21610B347934E6695A27364 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0D56656610B01EE30FF07981B67BDCC5 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ED7CDA101BD9F83D7BAD3743156DCABF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				878BBA8DEDB0D5A04E4D12FE3B558510 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1E8C485F5F0C380328D58653FA1139AC /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				E6F9DD86C3E7B27B48383F6952188A62 /* Pods-AeroMapSDK_iOS_Example */,
+				B8986FAA229C644B12A00AAC1332DB58 /* Pods-AeroMapSDK_iOS_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				BC9C053B7965FE5A53C96FF63C154824 /* Development Pods */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				B1A573850442D6936A3605EDCA784CCB /* Products */,
+				1E8C485F5F0C380328D58653FA1139AC /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		B1A573850442D6936A3605EDCA784CCB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				92347D49E85CA951CBAD8B41FE7EF7DA /* AeroMapSDK_iOS.framework */,
+				D9FBD9F7FEFE682805B215B71F135123 /* Pods_AeroMapSDK_iOS_Example.framework */,
+				7D5F11350AC31D17A9D10D30295FA06C /* Pods_AeroMapSDK_iOS_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B8986FAA229C644B12A00AAC1332DB58 /* Pods-AeroMapSDK_iOS_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				5B54EF01F4829E965622A0C6CE70FCB3 /* Info.plist */,
+				97504ADAE1066E14F1B54D00C6733AB5 /* Pods-AeroMapSDK_iOS_Tests.modulemap */,
+				C8336CAD24A81799E36FC592EE6B6318 /* Pods-AeroMapSDK_iOS_Tests-acknowledgements.markdown */,
+				4F81B2348DFE1B8746D8A4DA2BA36274 /* Pods-AeroMapSDK_iOS_Tests-acknowledgements.plist */,
+				77684AD06737C3B9CC7088662D7932AF /* Pods-AeroMapSDK_iOS_Tests-dummy.m */,
+				93B7E5B4B2E690E70C1C154C0C866A34 /* Pods-AeroMapSDK_iOS_Tests-frameworks.sh */,
+				C92870AA7CAD2B70FC019AE9EC0AB1FF /* Pods-AeroMapSDK_iOS_Tests-resources.sh */,
+				1C75DE9DB50FFCCBF3629F3C261188C7 /* Pods-AeroMapSDK_iOS_Tests-umbrella.h */,
+				2DE6CD6B9AB014B5860F4D020C329A93 /* Pods-AeroMapSDK_iOS_Tests.debug.xcconfig */,
+				3E53E0B8FAB9D731109F68ECAF7C251B /* Pods-AeroMapSDK_iOS_Tests.release.xcconfig */,
+			);
+			name = "Pods-AeroMapSDK_iOS_Tests";
+			path = "Target Support Files/Pods-AeroMapSDK_iOS_Tests";
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BC9C053B7965FE5A53C96FF63C154824 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CE93F4649CC6BA5684F4AADCAE65E877 /* AeroMapSDK_iOS */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		CE93F4649CC6BA5684F4AADCAE65E877 /* AeroMapSDK_iOS */ = {
+			isa = PBXGroup;
+			children = (
+				4DEF57D6D5E0C7C9B4AA69128DC661D9 /* ReplaceMe.m */,
+				F168149755734B16ED3AE3ED7E562AA1 /* Support Files */,
+			);
+			name = AeroMapSDK_iOS;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		E6F9DD86C3E7B27B48383F6952188A62 /* Pods-AeroMapSDK_iOS_Example */ = {
+			isa = PBXGroup;
+			children = (
+				9B8F235C9C357A47F10A8D6B4F37723F /* Info.plist */,
+				F5382FAC499DDCA88C8563567CE60B72 /* Pods-AeroMapSDK_iOS_Example.modulemap */,
+				91DABF40359B8226DDC7C1532BAE62D2 /* Pods-AeroMapSDK_iOS_Example-acknowledgements.markdown */,
+				526D8653364F593804065084052986C6 /* Pods-AeroMapSDK_iOS_Example-acknowledgements.plist */,
+				B915FC13A2FD7F69EFBD4E2AC111E329 /* Pods-AeroMapSDK_iOS_Example-dummy.m */,
+				CB076A0C1BCD29979229966C669469DE /* Pods-AeroMapSDK_iOS_Example-frameworks.sh */,
+				4F4E5F06241E554DD0464693D9A06B9D /* Pods-AeroMapSDK_iOS_Example-resources.sh */,
+				0DAE69F6B1192CF99A4D5713E0F04C73 /* Pods-AeroMapSDK_iOS_Example-umbrella.h */,
+				0B169A2314C4A01D27B53681601990DD /* Pods-AeroMapSDK_iOS_Example.debug.xcconfig */,
+				DBC5A8F4086096D0116FFEB09EFBAD6C /* Pods-AeroMapSDK_iOS_Example.release.xcconfig */,
+			);
+			name = "Pods-AeroMapSDK_iOS_Example";
+			path = "Target Support Files/Pods-AeroMapSDK_iOS_Example";
+			sourceTree = "<group>";
+		};
+		F168149755734B16ED3AE3ED7E562AA1 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				A8FC0A3ADACD88C1A28D1580E8F5AFE3 /* AeroMapSDK_iOS.modulemap */,
+				12CD52C6359975BED1F96B49611D3A3C /* AeroMapSDK_iOS.xcconfig */,
+				64502E269D900F07DB0B4921F39DF277 /* AeroMapSDK_iOS-dummy.m */,
+				77A51DE49BF1CAFC67F20DBDB455B33E /* AeroMapSDK_iOS-prefix.pch */,
+				71C6C9737AA960E91F166470256563D2 /* AeroMapSDK_iOS-umbrella.h */,
+				0BFEE2B636CB02D4BB0B0BBD088579A5 /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/AeroMapSDK_iOS";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		529298A403049F9B3BA89626834D8939 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CFCAD23BA04088FF81752AF8E4F969DA /* Pods-AeroMapSDK_iOS_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8764D8C35327FA7C4DD1E949A854B679 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03FC49BBD2D412FC007C977E162AD1C1 /* AeroMapSDK_iOS-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B397E4A9452244DA7AD176BEAD413870 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9200F5B74EB26A03B858D4285E0FD5D /* Pods-AeroMapSDK_iOS_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		39E1281411FF14E8224D56A14454C0BB /* Pods-AeroMapSDK_iOS_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 45554622F665D8A28CC7BC81143EE343 /* Build configuration list for PBXNativeTarget "Pods-AeroMapSDK_iOS_Tests" */;
+			buildPhases = (
+				0CB51C3681FE5EF76FB67A72AF0AC660 /* Sources */,
+				8862C16868DF34AA65F80E1C85436E87 /* Frameworks */,
+				529298A403049F9B3BA89626834D8939 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-AeroMapSDK_iOS_Tests";
+			productName = "Pods-AeroMapSDK_iOS_Tests";
+			productReference = 7D5F11350AC31D17A9D10D30295FA06C /* Pods_AeroMapSDK_iOS_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		3B277A21BFD9C95923D7971451BA1674 /* AeroMapSDK_iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ECF5FB02E53F7FF75D3D04BA89B9859D /* Build configuration list for PBXNativeTarget "AeroMapSDK_iOS" */;
+			buildPhases = (
+				051AD5FFEDD3554AF5F5A70E021AC4E9 /* Sources */,
+				C071117CA21610B347934E6695A27364 /* Frameworks */,
+				8764D8C35327FA7C4DD1E949A854B679 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AeroMapSDK_iOS;
+			productName = AeroMapSDK_iOS;
+			productReference = 92347D49E85CA951CBAD8B41FE7EF7DA /* AeroMapSDK_iOS.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		E27AABF0F85366A2F4401B6D3D6D7478 /* Pods-AeroMapSDK_iOS_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9B3144C67B366DFDFB3F5B6AF138C0B2 /* Build configuration list for PBXNativeTarget "Pods-AeroMapSDK_iOS_Example" */;
+			buildPhases = (
+				D80B23B205E67E0ED84DE59ED535ABA8 /* Sources */,
+				ED7CDA101BD9F83D7BAD3743156DCABF /* Frameworks */,
+				B397E4A9452244DA7AD176BEAD413870 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				92A6ED06114D7CD58D62999BEC7074A8 /* PBXTargetDependency */,
+			);
+			name = "Pods-AeroMapSDK_iOS_Example";
+			productName = "Pods-AeroMapSDK_iOS_Example";
+			productReference = D9FBD9F7FEFE682805B215B71F135123 /* Pods_AeroMapSDK_iOS_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = B1A573850442D6936A3605EDCA784CCB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3B277A21BFD9C95923D7971451BA1674 /* AeroMapSDK_iOS */,
+				E27AABF0F85366A2F4401B6D3D6D7478 /* Pods-AeroMapSDK_iOS_Example */,
+				39E1281411FF14E8224D56A14454C0BB /* Pods-AeroMapSDK_iOS_Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		051AD5FFEDD3554AF5F5A70E021AC4E9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8EACE26E4AFD8B96DAB3AC03ECDF383E /* AeroMapSDK_iOS-dummy.m in Sources */,
+				352572605C61798F7EF220C361929D9B /* ReplaceMe.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0CB51C3681FE5EF76FB67A72AF0AC660 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B3548EF8E82B2813D9A8CF7BD33B9907 /* Pods-AeroMapSDK_iOS_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D80B23B205E67E0ED84DE59ED535ABA8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B74695085C29C030B5675CE067B19748 /* Pods-AeroMapSDK_iOS_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		92A6ED06114D7CD58D62999BEC7074A8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = AeroMapSDK_iOS;
+			target = 3B277A21BFD9C95923D7971451BA1674 /* AeroMapSDK_iOS */;
+			targetProxy = E1DE6D614EAB02ADD34D6A2DB1C68279 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		5F8F7074BB7FA533899D4068815F346C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0B169A2314C4A01D27B53681601990DD /* Pods-AeroMapSDK_iOS_Example.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-AeroMapSDK_iOS_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AeroMapSDK_iOS_Example/Pods-AeroMapSDK_iOS_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_AeroMapSDK_iOS_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		6466319D5049BA777D3591F713193778 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 12CD52C6359975BED1F96B49611D3A3C /* AeroMapSDK_iOS.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/AeroMapSDK_iOS/AeroMapSDK_iOS-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/AeroMapSDK_iOS/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/AeroMapSDK_iOS/AeroMapSDK_iOS.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = AeroMapSDK_iOS;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		66F22B1DC3EBD5F7CF4E26E08FBF7CEE /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DBC5A8F4086096D0116FFEB09EFBAD6C /* Pods-AeroMapSDK_iOS_Example.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-AeroMapSDK_iOS_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AeroMapSDK_iOS_Example/Pods-AeroMapSDK_iOS_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_AeroMapSDK_iOS_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		6FD739B411754B51CA17524C0B945D97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2DE6CD6B9AB014B5860F4D020C329A93 /* Pods-AeroMapSDK_iOS_Tests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-AeroMapSDK_iOS_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AeroMapSDK_iOS_Tests/Pods-AeroMapSDK_iOS_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_AeroMapSDK_iOS_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		717E77604BFBB04BEAF56608A1CB2EDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7ACE47A942E977BAA46B4E140602C18F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 12CD52C6359975BED1F96B49611D3A3C /* AeroMapSDK_iOS.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/AeroMapSDK_iOS/AeroMapSDK_iOS-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/AeroMapSDK_iOS/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/AeroMapSDK_iOS/AeroMapSDK_iOS.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = AeroMapSDK_iOS;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		A6A03C9B1314C05BD3C2FBD3F65EDF83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		A878417ACB97AD4EDCEB9B31678ADB7F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3E53E0B8FAB9D731109F68ECAF7C251B /* Pods-AeroMapSDK_iOS_Tests.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-AeroMapSDK_iOS_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AeroMapSDK_iOS_Tests/Pods-AeroMapSDK_iOS_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_AeroMapSDK_iOS_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A6A03C9B1314C05BD3C2FBD3F65EDF83 /* Debug */,
+				717E77604BFBB04BEAF56608A1CB2EDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		45554622F665D8A28CC7BC81143EE343 /* Build configuration list for PBXNativeTarget "Pods-AeroMapSDK_iOS_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6FD739B411754B51CA17524C0B945D97 /* Debug */,
+				A878417ACB97AD4EDCEB9B31678ADB7F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9B3144C67B366DFDFB3F5B6AF138C0B2 /* Build configuration list for PBXNativeTarget "Pods-AeroMapSDK_iOS_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F8F7074BB7FA533899D4068815F346C /* Debug */,
+				66F22B1DC3EBD5F7CF4E26E08FBF7CEE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ECF5FB02E53F7FF75D3D04BA89B9859D /* Build configuration list for PBXNativeTarget "AeroMapSDK_iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7ACE47A942E977BAA46B4E140602C18F /* Debug */,
+				6466319D5049BA777D3591F713193778 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

@@ -1,0 +1,6 @@
+framework module AeroMapSDK {
+  umbrella header "AeroMapSDK.h"
+
+  export *
+  module * { export * }
+}

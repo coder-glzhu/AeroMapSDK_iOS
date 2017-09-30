@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AeroMapSDK_iOS'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AeroMapSDK_iOS.'
+  s.summary          = 'AeroMapSDK_iOS.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,25 +18,19 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: AeroMapSDK_iOS地图、对GoogleMapSDK_iOS的封装.
                        DESC
 
-  s.homepage         = 'https://github.com/GL-ZHU/AeroMapSDK_iOS'
+  s.homepage         = 'https://coding.net/u/zhuguoliang'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'GL-ZHU' => 'caimter@163.com' }
-  s.source           = { :git => 'https://github.com/GL-ZHU/AeroMapSDK_iOS.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://git.coding.net/zhuguoliang/AeroMapSDK_iOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
+  s.source_files = 'AeroMapSDK_iOS/Classes/AeroMapSDK.framework'
+  s.resource     = 'AeroMapSDK_iOS/Assets/UCMaps.bundle'
+  s.dependency 'GoogleMaps', '~> 2.2.0'
 
-  s.source_files = 'AeroMapSDK_iOS/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'AeroMapSDK_iOS' => ['AeroMapSDK_iOS/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
