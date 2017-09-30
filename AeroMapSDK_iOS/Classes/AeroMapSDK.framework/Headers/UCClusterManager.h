@@ -40,13 +40,10 @@
  */
 - (BOOL)clusterManager:(UCClusterManager *)clusterManager didTapClusterItem:(id<UCClusterItem>)clusterItem;
 
-/*!
- *  \~chinese
- *  当聚合点将要展开时候显示的图片
- */
-- (UIImage *)clusterManager:(UCClusterManager *)clusterManager willExpansion:(id<UCClusterItem>)clusterItem;
-
-- (void)clusterManager:(UCClusterManager *)clusterManager willExpansion:(id<UCClusterItem>)clusterItem block:(void (^)(UIImage *, CGPoint))block;
+/// 需要自定义展开的marker
+- (UCMarker *)clusterManager:(UCClusterManager *)clusterManager userData:(id)userData;
+/// 设置默认选中的marker
+- (NSString *)selectedMarker;
 @end
 
 
@@ -123,7 +120,7 @@
  *  \~english
  *  update clusteritem
  */
-- (void)updateItem:(id <UCClusterItem>)item;
+- (UCMarker *)updateItem:(id <UCClusterItem>)item;
 
 /*!
  *  \~chinese

@@ -253,6 +253,13 @@ typedef enum {
  *  If it is disabled, or it is enabled but no location data is available,this will be nil. This property is observable using KVO
  */
 @property(nonatomic, strong, readonly) CLLocation *myLocation;
+/**
+ * The marker that is selected.  Setting this property selects a particular
+ * marker, showing an info window on it.  If this property is non-nil, setting
+ * it to nil deselects the marker, hiding the info window.  This property is
+ * observable using KVO.
+ */
+@property(nonatomic, strong) UCMarker *selectedMarker;
 
 /*!
  *  \~chinese
