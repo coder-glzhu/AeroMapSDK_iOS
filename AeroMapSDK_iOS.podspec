@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: AeroMapSDK_iOS地图、对GoogleMapSDK_iOS的封装.
                        DESC
 
-  s.homepage         = 'https://coding.net/u/zhuguoliang'
+  s.homepage         = 'https://github.com/GL-ZHU/AeroMapSDK_iOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'GL-ZHU' => 'caimter@163.com' }
-  s.source           = { :git => 'https://git.coding.net/zhuguoliang/AeroMapSDK_iOS.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/GL-ZHU/AeroMapSDK_iOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
