@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AeroMapSDK_iOS_Example' do
+  pod 'AeroMapSDK_iOS', :path => '../'
+
+  target 'AeroMapSDK_iOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
