@@ -29,7 +29,7 @@ TODO: AeroMapSDK_iOS地图、对GoogleMapSDK_iOS的封装.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
-  s.source_files = 'AeroMapSDK_iOS/Classes/AeroMapSDK.framework'
+  s.vendored_frameworks = 'AeroMapSDK_iOS/Classes/AeroMapSDK.framework'
   s.resource     = 'AeroMapSDK_iOS/Assets/UCMaps.bundle'
   s.dependency 'GoogleMaps', '~> 2.2.0'
 
