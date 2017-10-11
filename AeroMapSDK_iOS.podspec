@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AeroMapSDK_iOS'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'AeroMapSDK_iOS.'
 
 # This description is used to generate tags and improve search results.
@@ -32,5 +32,7 @@ TODO: AeroMapSDK_iOS地图、对GoogleMapSDK_iOS的封装.
   s.vendored_frameworks = 'AeroMapSDK_iOS/Classes/AeroMapSDK.framework'
   s.resource     = 'AeroMapSDK_iOS/Assets/UCMaps.bundle'
   s.dependency 'GoogleMaps', '~> 2.2.0'
+  s.dependency 'XMNetworking'
+  s.dependency 'YYCache'
 
 end

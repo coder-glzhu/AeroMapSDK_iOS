@@ -52,15 +52,4 @@ FOUNDATION_EXPORT const unsigned char AeroMapSDKVersionString[];
 #import <AeroMapSDK/UCUISettings.h>
 
 
-//YYCache
-#import <AeroMapSDK/YYCache.h>
-#import <AeroMapSDK/YYDiskCache.h>
-#import <AeroMapSDK/YYKVStorage.h>
-#import <AeroMapSDK/YYMemoryCache.h>
-
-//AFN
-#import <AeroMapSDK/XMNetworking.h>
-#import <AeroMapSDK/AFNetworking.h>
-#import <AeroMapSDK/AFNetworkActivityIndicatorManager.h>
-
 
