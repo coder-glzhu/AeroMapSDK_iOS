@@ -8,21 +8,21 @@
 
 #import <Foundation/Foundation.h>
 @class UCMapView;
-typedef enum : NSUInteger {
-    AirspaceOverLayerNameRestricted = 0,    //限制区
-    AirspaceOverLayerNameNoFly,             //禁飞区
-    AirspaceOverLayerNameDangerous,         //危险区
-    AirspaceOverLayerNameForbidden,         //净空区
-    AirspaceOverLayerNameAirportMH,         //民航机场
-    AirspaceOverLayerNameAirportHL,         //护林机场
-    AirspaceOverLayerNameAirportNH,         //农化机场
-    AirspaceOverLayerNameAirportTH,         //通航机场
-    AirspaceOverLayerNameAirportJY,         //军用机场
-    AirspaceOverLayerNameAirportJM,         //军民机场
-    AirspaceOverLayerNameAirportZSJ,        //直升机
-    AirspaceOverLayerNameAirportJB          //军备机场
-} AirspaceOverLayerName;
-
+typedef NS_ENUM(NSUInteger, AirspaceOverLayerName) {
+    AirspaceOverLayerNameRestricted = 0,             //限制区
+    AirspaceOverLayerNameNoFly = 1 << 0,             //禁飞区
+    AirspaceOverLayerNameDangerous = 1 << 1,         //危险区
+    AirspaceOverLayerNameForbidden = 1 << 2,         //净空区
+    AirspaceOverLayerNameFreeZone = 1 << 3,          //自由飞行区
+    AirspaceOverLayerNameAirportMH = 1 << 4,         //民航机场
+    AirspaceOverLayerNameAirportHL = 1 << 5,         //护林机场
+    AirspaceOverLayerNameAirportNH = 1 << 6,         //农化机场
+    AirspaceOverLayerNameAirportTH = 1 << 7,         //通航机场
+    AirspaceOverLayerNameAirportJY = 1 << 8,         //军用机场
+    AirspaceOverLayerNameAirportJM = 1 << 9,         //军民机场
+    AirspaceOverLayerNameAirportZSJ = 1 << 10,        //直升机
+    AirspaceOverLayerNameAirportJB = 1 << 11         //军备机场
+};
 
 @interface AirspaceOverLayer : NSObject
 
@@ -33,15 +33,11 @@ typedef enum : NSUInteger {
  @return 图层实例
  */
 + (instancetype)overLayerWithMapView:(UCMapView *)mapView;
-
-
 /**
  * 调用此方法根据传入的枚举类型添加不同的图层
-
  @param layerName 图层名称
  */
 - (void)addOverLayerWithlayerName:(AirspaceOverLayerName)layerName;
-
 
 /**
  * 调用此方法根据枚举类型删除不同的图层
