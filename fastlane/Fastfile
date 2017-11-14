@@ -22,7 +22,6 @@ push_to_git_remote # git push --tags
 
 pod_push(
 path: path,
-repo: "trunk",
 allow_warnings: true,
 use_libraries: true
 ) # 提交到私有仓库
