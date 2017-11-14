@@ -1,0 +1,31 @@
+desc "提交一个私有库"
+lane :AutoPod do |options|
+target_version = options[:t]
+project        = options[:p]
+path           = "#{project}.podspec"
+
+cocoapods(
+clean: true,
+podfile: "./Example/Podfile"
+)  # pod install 重新安装一下代码
+git_add(path: ".") # git add .
+git_commit(path: ".", message: target_version) # git commit -m 'xxx'
+push_to_git_remote # git push origin master
+
+if git_tag_exists(tag: target_version)
+UI.message("已经存在这个标签, 处理操作: 删除本地&远程标签#{target_version} 🚀")
+remove_tag(tagName: target_version, dR:true, dL:true)
+end
+
+add_git_tag(tag: target_version) # git tag -a xx
+push_to_git_remote # git push --tags
+
+pod_push(
+path: path,
+repo: "trunk",
+allow_warnings: true,
+use_libraries: true
+) # 提交到私有仓库
+
+end
+
