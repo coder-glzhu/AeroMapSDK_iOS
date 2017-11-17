@@ -1,6 +1,6 @@
 {
   "name": "AeroMapSDK_iOS",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "summary": "AeroMapSDK_iOS.",
   "description": "TODO: AeroMapSDK_iOS地图、对GoogleMapSDK_iOS的封装.",
   "homepage": "https://github.com/GL-ZHU/AeroMapSDK_iOS",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/GL-ZHU/AeroMapSDK_iOS.git",
-    "tag": "0.1.14"
+    "tag": "0.1.16"
   },
   "platforms": {
     "ios": "8.0"
@@ -22,7 +22,7 @@
   "resources": "AeroMapSDK_iOS/Assets/UCMaps.bundle",
   "dependencies": {
     "GoogleMaps": [
-      "~> 2.2.0"
+      "~> 2.5.0"
     ],
     "XMNetworking": [
 

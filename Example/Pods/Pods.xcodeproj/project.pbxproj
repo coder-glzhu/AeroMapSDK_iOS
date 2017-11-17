@@ -86,7 +86,6 @@
 		0EF81F8080B7CC8F261F9D2B0D417531 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10E9DE893F92D55B87D86CE94DB635F2 /* YYCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YYCache.m; path = YYCache/YYCache.m; sourceTree = "<group>"; };
 		127BC15900F2AD8B4F7A60AB0476C5F9 /* UCMaps.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = UCMaps.bundle; path = AeroMapSDK_iOS/Assets/UCMaps.bundle; sourceTree = "<group>"; };
-		1B2E8A5A6AAA7879378497EDF8260ECE /* GoogleMaps.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = GoogleMaps.bundle; path = Maps/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle; sourceTree = "<group>"; };
 		1C035BDD0F16A9459DA5584200B833D2 /* XMEngine.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMEngine.m; path = XMNetworking/Core/XMEngine.m; sourceTree = "<group>"; };
 		1C75DE9DB50FFCCBF3629F3C261188C7 /* Pods-AeroMapSDK_iOS_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AeroMapSDK_iOS_Tests-umbrella.h"; sourceTree = "<group>"; };
 		1D8895F3E021398456BCEAD6FFDB5854 /* XMCenter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMCenter.h; path = XMNetworking/Core/XMCenter.h; sourceTree = "<group>"; };
@@ -126,6 +125,7 @@
 		91DABF40359B8226DDC7C1532BAE62D2 /* Pods-AeroMapSDK_iOS_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AeroMapSDK_iOS_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93B7E5B4B2E690E70C1C154C0C866A34 /* Pods-AeroMapSDK_iOS_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AeroMapSDK_iOS_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		95C2836D1342B33338D395A84C2321FE /* GoogleMaps.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = GoogleMaps.bundle; path = Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle; sourceTree = "<group>"; };
 		9634D5DF0CAEB2B7134DF0F53B13D3E9 /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLResponseSerialization.h; path = "XMNetworking/Lib/AFNetworking-3.1.0/AFURLResponseSerialization.h"; sourceTree = "<group>"; };
 		97504ADAE1066E14F1B54D00C6733AB5 /* Pods-AeroMapSDK_iOS_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-AeroMapSDK_iOS_Tests.modulemap"; sourceTree = "<group>"; };
 		9B8F235C9C357A47F10A8D6B4F37723F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -204,14 +204,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		092782D29E1510BD956DCB90EFB14F1F /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				1B2E8A5A6AAA7879378497EDF8260ECE /* GoogleMaps.bundle */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-		};
 		1E8C485F5F0C380328D58653FA1139AC /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -240,7 +232,7 @@
 			isa = PBXGroup;
 			children = (
 				726E2C3DD67A2904800ED38582DECED8 /* Frameworks */,
-				092782D29E1510BD956DCB90EFB14F1F /* Resources */,
+				91B357FBEA4697506DADF6805284E0D7 /* Resources */,
 			);
 			name = Maps;
 			sourceTree = "<group>";
@@ -343,6 +335,14 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/YYCache";
+			sourceTree = "<group>";
+		};
+		91B357FBEA4697506DADF6805284E0D7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				95C2836D1342B33338D395A84C2321FE /* GoogleMaps.bundle */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		A257BFD8E2F7A5E485D1032D618668B9 /* Lib */ = {

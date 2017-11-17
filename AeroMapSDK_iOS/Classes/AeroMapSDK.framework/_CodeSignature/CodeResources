@@ -6,15 +6,23 @@
 	<dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
 		<data>
-		1k2elRT83GwMXg5CGZTRBWtZDIg=
+		bd/AjjbWiJUWvZUpX4Vapp32pk4=
 		</data>
-		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.omo</key>
+		<key>GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileVersionID.mom</key>
 		<data>
-		Hvz20OLmu41Q8UnQzXbApMU0b+A=
+		FFbX306ig2PY+n623EUdmBbBjtM=
+		</data>
+		<key>GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileVersionID.omo</key>
+		<data>
+		6CGUGlLkKuOhVUkPlghyjILPtbo=
 		</data>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/VersionInfo.plist</key>
 		<data>
-		pM4z2WOz2V62mj7dBpAcoRDOs7Y=
+		kHmdwpl9Pqspi0q4GOpo/UZjtUU=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Assets.car</key>
+		<data>
+		G1M5eVc+7kihNQNlHDkMJmLJN7M=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/DroidSansMerged-Regular.ttf</key>
 		<data>
@@ -22,103 +30,43 @@
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-1x.png</key>
 		<data>
-		f+oMIFeAl5+wQ4N0HVEAT6PZSwI=
+		KBiuGmPvZm6y3heWHurqjBMitJw=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-2x.png</key>
 		<data>
-		M1W5MmWgmqHkiHFaQPvMVQ8K29Q=
+		/ZC7kLA33LLUaGoy4elYV+v1Pss=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-3x.png</key>
 		<data>
-		q4nWXsneTSyhPnbDM/8Xfr/RscQ=
+		UPqwKRHKhiKSYvXhNjoHx17Nuzw=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-1x.png</key>
 		<data>
-		L7J5tvEV5AMfv9Nwkf1fREERHLg=
+		HtlVPVLfIPnRgNEJCgqZ9HzzNnk=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-2x.png</key>
 		<data>
-		Zrfo9Bg7/zc1pNH8/xuC3ZRClKk=
+		jIN/JzIfQ/yH+cDbd8ml4ZaoiL0=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-3x.png</key>
 		<data>
-		P35+KUBaSwQT4TTVL4+fGPIms6A=
+		sPSCJQfUIbitRT7p20M8jWdRy08=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-1x.png</key>
 		<data>
-		ChY8g+j3FYLGt0NCqPA6D6fxqpw=
+		EWBdPfava/wyOvJzwjjrb/duCps=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-2x.png</key>
 		<data>
-		lWsc8PLwbAGZbCkuRnr4l5lzwz0=
+		qdfSsxqXu+cyeOAXclm8SMqA4X0=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-3x.png</key>
 		<data>
-		tX5ZaR4PEzAhAbXj1elgfWoGI4I=
+		n786WUj7hGtZZRTeMetonUS85d0=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Info.plist</key>
 		<data>
-		TXy575iWvWhldM5I8VRRA59ethk=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Black.ttf</key>
-		<data>
-		Vw7l8OeQVxE+rRXdeJYaZIu/zmA=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-BlackItalic.ttf</key>
-		<data>
-		7On5eW3hrxZSJdQY9rwWcK72O5Q=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Bold.ttf</key>
-		<data>
-		yZXHuAgmdHB5GqY3C1OT7pQiyAc=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-BoldItalic.ttf</key>
-		<data>
-		k8ksE8oYji45zrOHJQP07TKLwFc=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Italic.ttf</key>
-		<data>
-		bzcO65GKbBzbsKLqlYHQTyLC4S4=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Light.ttf</key>
-		<data>
-		BhTqgM8ZTLlU0h4B+IOj6DThkxw=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-LightItalic.ttf</key>
-		<data>
-		azDRmFM0CX3gumYS//3v1IizCII=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Medium.ttf</key>
-		<data>
-		QjpSo27gUwDU3v1xfJNuEgt1WXU=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-MediumItalic.ttf</key>
-		<data>
-		1FzjnQH4t5tfrBgLc0OG7phQdRk=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Regular.ttf</key>
-		<data>
-		Oxqvi5Nc1fJpg1LmIClU5RE3ass=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Thin.ttf</key>
-		<data>
-		ev71aAmVntm3s56QGam2e9M0NYE=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-ThinItalic.ttf</key>
-		<data>
-		fQgVc2LvXWArp3JRlKRBnK7v0fw=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/RobotoCondensed-Italic.ttf</key>
-		<data>
-		OY03QO9ZO0xo4u5VWCeHmxa6Kt0=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/RobotoCondensed-Regular.ttf</key>
-		<data>
-		9HQuFcSJ1cSRzpoPBkYceXIntCs=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Siemreap.ttf</key>
-		<data>
-		FiGbCzcRCekSlOB47VbXfOB0h0Q=
+		6FVc5oklb1pAn4wc8VYB/ikyjRE=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf</key>
 		<data>
@@ -128,7 +76,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TY4ei/O79QINnqz60ugnKi79t70=
+			XfhNqyffrvx8tmKFYj+MSUxG+5E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -173,7 +121,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aeGyWB3kyDC4jiCR8FwBMttaPeY=
+			2iqIGKkWEzF3P/fBUTYiQnWIM1Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -182,7 +130,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xEgdll+m85jj7KB5dc3wCsSi3fc=
+			w1IywmrZNDy5bo0ZkNsrpJcs7bY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -191,7 +139,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UfYXtFA+CWvUVqugtxNBQ4NYsvk=
+			hdCkXfxyYXDoDILmVtVe/McuZmc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -204,7 +152,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I45cgPURyxDIJ6HFxJzxcycKK5I=
+			70qD6+LSYCeJ54ge0w89KvIVDwQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -213,7 +161,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iUFYitzTLwNgnf27kdi7LdQhqS0=
+			WAfvmMTX50lbGgvMWHfd5RuFsQs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -222,7 +170,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hh4/gWnaygWCMYzsvfTI7OA0/Bk=
+			BU0+A/RFt/19L9p2YspPbyHla54=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -231,7 +179,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nZaIpDg+Qh/DTg3rucmtTrtYHZg=
+			jfh2ODFz7fpDL9GennoRLOh3Sq8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -240,7 +188,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nZaIpDg+Qh/DTg3rucmtTrtYHZg=
+			jfh2ODFz7fpDL9GennoRLOh3Sq8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -249,7 +197,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nZaIpDg+Qh/DTg3rucmtTrtYHZg=
+			jfh2ODFz7fpDL9GennoRLOh3Sq8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -258,7 +206,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G8eKyspojCu7Om8seI/0+PjRw+4=
+			/g7wuwSDHPrL2IZ/HGS7bIK3AxI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -267,7 +215,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7tMg7n8yxwyv0ERODAGbx/pLiwQ=
+			CjD0bv4XghDkxisx5JCsl8KCukk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -276,7 +224,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7tMg7n8yxwyv0ERODAGbx/pLiwQ=
+			CjD0bv4XghDkxisx5JCsl8KCukk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -285,7 +233,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NTHoxBrejjnE7OK+6UyKOO6MeNk=
+			eF0hOjM/8QPLm669cvpv1hwraMc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -294,7 +242,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			l6WFUoVgFTaoG6DbmZMbtMnNZOI=
+			R3V2N6uZ4G+JA2S6UOa6oJ8+oCs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -303,40 +251,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rikMTc8Q8EkSKkZcWsaFwL5Fe0s=
+			aLKhE3wtTPJ0MzE+X0pnmnaqHwQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_56x20_with_2_stroke_color_60x22pt.png</key>
-		<data>
-		lWU896xwL3SLIZLg+7D/xq513Fo=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_56x20_with_2_stroke_color_60x22pt@2x.png</key>
-		<data>
-		v+0eL+50PmIHMZZ9P6ZrYr45KyI=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_56x20_with_2_stroke_color_60x22pt@3x.png</key>
-		<data>
-		9c4uw/pktmnx83deYk0ZWme/Q8g=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_light_56x20_with_2_stroke_color_60x22pt.png</key>
-		<data>
-		KZ8dq6mWFTrtvTiwc6bjUEf26Sk=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_light_56x20_with_2_stroke_color_60x22pt@2x.png</key>
-		<data>
-		5S3UbS78YwaHrQsjxozZP/AKE/c=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_light_56x20_with_2_stroke_color_60x22pt@3x.png</key>
-		<data>
-		XOZQTYWmm0P60VrSU/6Vr7WTiyA=
-		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/he.lproj/GMSCore.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jIpCzJ5KR4IsplDy3/S22Stcz/s=
+			Z8YakYpeJ74mBtRjdxQbotf1gUY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -345,7 +269,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NPDDYOVBBiOhBkcGqCKr4HyDRmA=
+			+gnHQL9qvnwUssR4jV9jXXUDNKw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -354,7 +278,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BuDIiWoIBQf8hTFyjtHJIOwHdAc=
+			oRA9SVBzD0FH63e35L2aa6gluxI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -363,7 +287,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zx0a4L5j8kgiIdOeCyWId9hjD60=
+			b8yOw8XSqZIgH8KtJwEF5TzOuXo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -375,6 +299,30 @@
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle@2x.png</key>
 		<data>
 		ik1Nng6iqN/+ruu7baKmTu3Cy/M=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large.png</key>
+		<data>
+		/WPXm9lH4rlc3x4vdnr7k2RHkEg=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large@2x.png</key>
+		<data>
+		zbZAM7mPNNvouB2QcXsTxOCJtxQ=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large@3x.png</key>
+		<data>
+		P08jpJQZdro2N5VhzgQnu+jsSZk=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off.png</key>
+		<data>
+		xh3gGmRY86tJc5Lh3Nd6zBYqSbs=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off@2x.png</key>
+		<data>
+		NTF65BOR+sJY4SRV1e2mgkz9kmc=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off@3x.png</key>
+		<data>
+		rQpisYk5GDcvEAM1KX1zN7Tk0UE=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_qu_direction_mylocation.png</key>
 		<data>
@@ -392,7 +340,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L7iXQgXwSZoHA6HKXtVT8kKJ760=
+			DGoDMQacCNB0oPp4wYW7CLqThFg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -401,7 +349,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hiGNzCfZf867+dyUPDBOrfFtq48=
+			eJ5vMZ8gFP6NgflPNaoyGQPjNXI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/iw.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z8YakYpeJ74mBtRjdxQbotf1gUY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -410,7 +367,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P6tuz4DCMNB7O/xn8YBBE5KAlaA=
+			5aUsiOJsl/e/gNPmDqk7+v4wWPk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -419,7 +376,25 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			92jbhfPU3N0UjoLFHop8IGHwhvg=
+			Eus5ldEjVvJiowLPTYTRJSdN+ts=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/lt.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BU0+A/RFt/19L9p2YspPbyHla54=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/lv.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BU0+A/RFt/19L9p2YspPbyHla54=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -428,7 +403,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pyEv7T2AcOr5s9PLHabH6C+x7Y8=
+			fqIOQSiFX3jQSN3AwloR2o/cUwI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -437,7 +412,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xt0az3UZvMKfQH2I41uXUt3sTXg=
+			hZjJchQ4lkm7GtJbpGNy8GPDPug=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -446,7 +421,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+WeItWOOYZ/+no75wjSkySL0J1Q=
+			vmRhLnh9cAGvbEVdb3PJnwAG8FU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/no.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hZjJchQ4lkm7GtJbpGNy8GPDPug=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -455,7 +439,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HneGLTsNubqt6NOPHQQ5q4L1b0w=
+			jCpr3kLwg2ciBN0avBI0gd+fX6c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -472,7 +456,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NwLPbOEH66amXy+PYXr5chLTHEc=
+			OKQY1LPS+Imp4HRwgsjqpfzutSo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -481,7 +465,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NwLPbOEH66amXy+PYXr5chLTHEc=
+			OKQY1LPS+Imp4HRwgsjqpfzutSo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -490,7 +474,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			574RvWkXvd/dyQrtUt8cm7iWVYI=
+			dcoy5b/xFMVDfHGT4Nz7LSlMgCA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -499,14 +483,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lPL3kknZE5CxtprTUCO1IsDhLmg=
+			lv5kkI4auFNhxAZx6m5a/OYRfb8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_1-1.png</key>
 		<data>
-		0ZG8wq8LpZA/yvyC01oYTEnsEao=
+		HG4lAzW99jq1X860ruCadRTP1JI=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_128-32.png</key>
 		<data>
@@ -518,7 +502,7 @@
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_2-1.png</key>
 		<data>
-		T/MpxrZZySECP+8RGSX0vkSPfjM=
+		liaTlaCHAiLcpdhS15/FoNQuex8=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_256-64.png</key>
 		<data>
@@ -544,7 +528,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3AIZIRJ5zgYrnhzT9UN9BQIFmqI=
+			mH1dU/jokm+I7pA7uBkaijO2Zx0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -553,7 +537,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IHpwQjnwLnArxfOUowRbk81A+V4=
+			buHpYOT6zOfqQfNP6nm0IX9wgmw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -562,7 +546,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vhHj2Gt7Px1tO0bonogVaPG4DuY=
+			TEjgAiUC0CtoUXhuPOWGXKHPw1Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -571,7 +555,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WqyEjizVPKcTEsguw07bpvmRUI8=
+			EoBmwF308UyW1WbdxMChSiS7PcI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -580,16 +564,32 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BB34RliYpe60FI6Kbi4NZHBI+jk=
+			JtZkhYz/JUBGEKsI57iE8qbnqOY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_endcap.png</key>
+		<data>
+		JMIzIZ9izwPLkFbGpybEDcjnz7c=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_greyscale1.png</key>
+		<data>
+		n/rXdJIMAIb8p0IhcrLQAREUhoQ=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_greyscale2.png</key>
+		<data>
+		D8Wb/FHzbrCFMy6Hzt0pOxO+pZI=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_startcap.png</key>
+		<data>
+		G+epinU1D/ABNNd9znBSZ13ndrE=
+		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj/GMSCore.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z1kFvyOJE72XNz/gqUVozUIFs4Q=
+			+ELQYCw4FcX+et9rNv435r2EZ0Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -598,7 +598,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vpJh7vOBh4YJe/M3aKdWMcA+7Pc=
+			mMZ4TFIG1fgqJ8y8o44Mir4mvy8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -607,7 +607,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xnJO4XyTEa8sJt7VzPcp2HV+K9M=
+			xoWhLA0ZAVjChXCi0M5/LNxRIZU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -616,7 +616,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V4yVOW9c65c+6F25XWq7BlQMUss=
+			lhat6H6MBYoxbkBaAJTfUdzXqWs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -625,14 +625,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TtXukrcmLiGTLTHPp9VESlHrYLc=
+			wqVbFC3zVq17mLqtA9m88YpX+EA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>GoogleMaps.bundle/Info.plist</key>
 		<data>
-		KQHmUtFCWEiHhlYYakEc2iV+gYw=
+		coB5vGsCwkMsak7a8T4sMhUAhfc=
 		</data>
 		<key>GoogleMaps.bundle/bubble_left.png</key>
 		<data>
@@ -670,18 +670,9 @@
 		<data>
 		aaXwNg/cdC6SWi6uUGhH/MO6QcE=
 		</data>
-		<key>GoogleMaps.bundle/en.lproj/InfoPlist.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zmV6UqBSo6r1NOz798vd5O4zTBA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>GoogleMaps.bundle/oss_licenses_maps.txt.gz</key>
 		<data>
-		GLyUZnNtIm1BmwHO+H9THgRObOA=
+		Kj6ixJMHtndv37xT7AFZAQBgKic=
 		</data>
 		<key>Headers/AeroMapSDK.h</key>
 		<data>
@@ -802,33 +793,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1k2elRT83GwMXg5CGZTRBWtZDIg=
+			bd/AjjbWiJUWvZUpX4Vapp32pk4=
 			</data>
 			<key>hash2</key>
 			<data>
-			l8yL1QbSRmq2wHgtaENm45yTc9aFPmUHJkLif9D92Y8=
+			Odq+tRGRSNqHHcXwc2/yCFTKWrj2O8UvwnqqmtcswaA=
 			</data>
 		</dict>
-		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.omo</key>
+		<key>GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileVersionID.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Hvz20OLmu41Q8UnQzXbApMU0b+A=
+			FFbX306ig2PY+n623EUdmBbBjtM=
 			</data>
 			<key>hash2</key>
 			<data>
-			vhEe/V7eZYcRY3C4JslyUtQ3HN835Uo5LB4UULJL1P4=
+			mjNp3Ww2hLAW11ykW0H+Xor6XL7QKo1BjKTaQbT0rlA=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileVersionID.omo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6CGUGlLkKuOhVUkPlghyjILPtbo=
+			</data>
+			<key>hash2</key>
+			<data>
+			NTqv54d+wBBTj0aR/T6E1ioTJzgSVjMIUR5IqH7/Dy8=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pM4z2WOz2V62mj7dBpAcoRDOs7Y=
+			kHmdwpl9Pqspi0q4GOpo/UZjtUU=
 			</data>
 			<key>hash2</key>
 			<data>
-			YxsIdFGV/EWG4h4b2Kf947o9PGO/9lk8nluUwjyJ3v8=
+			fiWqonmUmLLOwzDIz4klRR7gHUlc32Q82iPgdw4K4Z4=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G1M5eVc+7kihNQNlHDkMJmLJN7M=
+			</data>
+			<key>hash2</key>
+			<data>
+			pfBJOuMURiZj+Oto6BPx4F8JoZoRY8dOcQyEaRdTQNs=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/DroidSansMerged-Regular.ttf</key>
@@ -846,275 +859,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f+oMIFeAl5+wQ4N0HVEAT6PZSwI=
+			KBiuGmPvZm6y3heWHurqjBMitJw=
 			</data>
 			<key>hash2</key>
 			<data>
-			uwT+1xqzzCh2GwV3hiU74M+mcDWaPMT4l52b+IAPX9w=
+			6I9AZoWd/JQ8PV9b4FcAqf5GJT6iUEe7YeuyNGEkwfc=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M1W5MmWgmqHkiHFaQPvMVQ8K29Q=
+			/ZC7kLA33LLUaGoy4elYV+v1Pss=
 			</data>
 			<key>hash2</key>
 			<data>
-			ePquPkeVVS5AC9ifs4fJnqMGNaWiGRdK1ZoBI0yFQk8=
+			35EHfeztT/7K9NKjZJGCUlauQ2HOF3PBQxkLgM2OGUw=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q4nWXsneTSyhPnbDM/8Xfr/RscQ=
+			UPqwKRHKhiKSYvXhNjoHx17Nuzw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PndsqyvWhaQ0q+xy4b0BeML6hgbGMaVdxUJNApWuKOc=
+			yGhIyrKtKLoQ2oJfnH4RrIxHQUQYODC5SL+bLjiNbxo=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-1x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L7J5tvEV5AMfv9Nwkf1fREERHLg=
+			HtlVPVLfIPnRgNEJCgqZ9HzzNnk=
 			</data>
 			<key>hash2</key>
 			<data>
-			iWSCrOdFm0yzElMa8DQpN8tC5TO8tYjfAhRHd4iaXDo=
+			tPMjQBIQngJfk4qJUUY4wVmqoW5Q5Rjock+8GvXMKQ4=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zrfo9Bg7/zc1pNH8/xuC3ZRClKk=
+			jIN/JzIfQ/yH+cDbd8ml4ZaoiL0=
 			</data>
 			<key>hash2</key>
 			<data>
-			m+aSuUqfBHq37acAYIC/EiRGAAHzLiE5TcC0SgAK4zQ=
+			EVpApAooT8h1R6PzWfn1aPVTLGOjy4yH21Jc4xiLokA=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P35+KUBaSwQT4TTVL4+fGPIms6A=
+			sPSCJQfUIbitRT7p20M8jWdRy08=
 			</data>
 			<key>hash2</key>
 			<data>
-			rlJgaPy6pIq94bGjGZY6VD1tPTSJ9OtU+3wegF3x/+I=
+			M8mFqvW4ZqMJmAskgnsTR6QcEKzP+7AH26NH8GJWghQ=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-1x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ChY8g+j3FYLGt0NCqPA6D6fxqpw=
+			EWBdPfava/wyOvJzwjjrb/duCps=
 			</data>
 			<key>hash2</key>
 			<data>
-			AR5Qnk5dPffCdrBhx8agaXAv19vY39xG77pmCW+5+So=
+			/San4bmkO/etQsjn9oEXdyINQp6ibF2eqGT+08nFcOs=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lWsc8PLwbAGZbCkuRnr4l5lzwz0=
+			qdfSsxqXu+cyeOAXclm8SMqA4X0=
 			</data>
 			<key>hash2</key>
 			<data>
-			w0pCZXLgym6G559/u4Qt1EMxBSYVZ20mcx3EvIfOCEE=
+			pntyMhLjHwzvqXia0TOR0kyhwisXgBbqmQjOgC3IQgo=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tX5ZaR4PEzAhAbXj1elgfWoGI4I=
+			n786WUj7hGtZZRTeMetonUS85d0=
 			</data>
 			<key>hash2</key>
 			<data>
-			W13B2gW/zpd1eRzYKCFKqE7E1Q55qrcC8G7W+gu1VC0=
+			gGAK9lJQRrjb5ZNvbgHJPz/XC5Q3HweL2qc9boFq6Qc=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TXy575iWvWhldM5I8VRRA59ethk=
+			6FVc5oklb1pAn4wc8VYB/ikyjRE=
 			</data>
 			<key>hash2</key>
 			<data>
-			3/RDdd3QDnE5htoWFzqU7jkYHqfz+mU0QnYaiirmQcE=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Black.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Vw7l8OeQVxE+rRXdeJYaZIu/zmA=
-			</data>
-			<key>hash2</key>
-			<data>
-			GCkxB9GK4eQVUM0u87QUjVwql7iuz1e6SH9A9XosDw0=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-BlackItalic.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7On5eW3hrxZSJdQY9rwWcK72O5Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			nt6jGLWVtuY+z5hl+I65Hy33DDbzkxCdnPBhw1FPYTU=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Bold.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yZXHuAgmdHB5GqY3C1OT7pQiyAc=
-			</data>
-			<key>hash2</key>
-			<data>
-			KJz2AtUaWzNJIcMlAniYuPJR/c+nk1Lbox4+Og+0des=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-BoldItalic.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			k8ksE8oYji45zrOHJQP07TKLwFc=
-			</data>
-			<key>hash2</key>
-			<data>
-			2d8MO4yQDdxyDkDUhT4uh9j4sfPxbL6sNBOOR+eabCc=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Italic.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bzcO65GKbBzbsKLqlYHQTyLC4S4=
-			</data>
-			<key>hash2</key>
-			<data>
-			AitqAtF7JzkNJrUMxnEJBrZIurNf6aAAak17r1TaTJs=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Light.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BhTqgM8ZTLlU0h4B+IOj6DThkxw=
-			</data>
-			<key>hash2</key>
-			<data>
-			lyJXcrNgbL2B22s6qAn+evcgJp6caQQ6eLtIfH3ID58=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-LightItalic.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			azDRmFM0CX3gumYS//3v1IizCII=
-			</data>
-			<key>hash2</key>
-			<data>
-			BRcSdqe2pFp4kUSkUkoF8ZsKHQEQcydWiBIZPUgNTQw=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Medium.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QjpSo27gUwDU3v1xfJNuEgt1WXU=
-			</data>
-			<key>hash2</key>
-			<data>
-			Semt8or0YYSu6n7WxSWauW8PgCutGGTizFCdP+Jb0DI=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-MediumItalic.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1FzjnQH4t5tfrBgLc0OG7phQdRk=
-			</data>
-			<key>hash2</key>
-			<data>
-			CI/XYvRgECHz3CBfnK6OkjYdIlJnSxEi7cAiZdWhrUs=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Regular.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Oxqvi5Nc1fJpg1LmIClU5RE3ass=
-			</data>
-			<key>hash2</key>
-			<data>
-			xpnh/OQbirQTsFIJIn4YfeE+UBjiblSQL2KCcBwpiZw=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-Thin.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ev71aAmVntm3s56QGam2e9M0NYE=
-			</data>
-			<key>hash2</key>
-			<data>
-			dQKeaVrXayqUZqFRy+qirCP3FAGYeXBnxeQobVN2nvA=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Roboto-ThinItalic.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fQgVc2LvXWArp3JRlKRBnK7v0fw=
-			</data>
-			<key>hash2</key>
-			<data>
-			6ZmVviLhpV17VTJoFwZduJ0xXHO+vwDMDOOSTthqSfE=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/RobotoCondensed-Italic.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OY03QO9ZO0xo4u5VWCeHmxa6Kt0=
-			</data>
-			<key>hash2</key>
-			<data>
-			ombitkaYpSIhJnJJcwwKIMAPEGZCs8WgueYEI94m+68=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/RobotoCondensed-Regular.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9HQuFcSJ1cSRzpoPBkYceXIntCs=
-			</data>
-			<key>hash2</key>
-			<data>
-			bce6Fi2zZZQaI8aPhBfsqIhMgh/2EEpaf4Jc4JBAe3c=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Siemreap.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FiGbCzcRCekSlOB47VbXfOB0h0Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			RkdgxtBvw/FT8uAF6xsNM9W9Z+dfLRxjP1hMJKwAZYg=
+			ldE4M68Kkd8TIJ7h7JpYNz2rhEnY2hznHhXLbjGJpTE=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf</key>
@@ -1132,11 +980,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TY4ei/O79QINnqz60ugnKi79t70=
+			XfhNqyffrvx8tmKFYj+MSUxG+5E=
 			</data>
 			<key>hash2</key>
 			<data>
-			xCuZO4Ghjk1ZTn6M4gRvGckHrcCBCl5+n6jiT39ARWM=
+			0u3pisnHBZquSjK//edvbsspZAAKf4nUrmqoOmj7QKM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1244,11 +1092,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aeGyWB3kyDC4jiCR8FwBMttaPeY=
+			2iqIGKkWEzF3P/fBUTYiQnWIM1Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			McKsJNoIPnZVdHppEQyn9Ik1pbJ9czcFECqFUGbwIRs=
+			OC0S+TQehJ0NmSqyns0UM+tnv0aboiR48IuNlb8Bgs8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1257,11 +1105,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xEgdll+m85jj7KB5dc3wCsSi3fc=
+			w1IywmrZNDy5bo0ZkNsrpJcs7bY=
 			</data>
 			<key>hash2</key>
 			<data>
-			JwTgfdD4TMYrImKhBbVWlKmvWsJCoBe5+d76bNZsvmA=
+			j+FIshKnpwwb5cAjoxS7zFTy2i4w0tbc/4Ra1btOXqw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1270,11 +1118,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UfYXtFA+CWvUVqugtxNBQ4NYsvk=
+			hdCkXfxyYXDoDILmVtVe/McuZmc=
 			</data>
 			<key>hash2</key>
 			<data>
-			FgMlWSdNDbzFpKSri10ZE/6ZvTTAxg41LY/la56C0JY=
+			dY6pSzFYyMbKk9BRtr9ItTCaoJ9PZJQAuHQFeti85uc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1294,11 +1142,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I45cgPURyxDIJ6HFxJzxcycKK5I=
+			70qD6+LSYCeJ54ge0w89KvIVDwQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			TntS7Uzn7Bk5EN1LaLU25sU/0htyLwTw/1IszzX6+aM=
+			R9Mb09XCjouHjh4jfe2/qUDcgwHuivETVf+c+FE38S4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1307,11 +1155,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iUFYitzTLwNgnf27kdi7LdQhqS0=
+			WAfvmMTX50lbGgvMWHfd5RuFsQs=
 			</data>
 			<key>hash2</key>
 			<data>
-			4SiWDGIdiBM6TzCezp96rHBb3V4ruQIg/TB95vgrXVQ=
+			3gcg4oJ6gfEEqGoWvUf+6XzSU1+a3fjwuZ8nAeuMbVw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1320,11 +1168,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hh4/gWnaygWCMYzsvfTI7OA0/Bk=
+			BU0+A/RFt/19L9p2YspPbyHla54=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tpxo33KBI6TZ+nqzU1cB4VqbsVCvgtlBd/DGTPMQNGk=
+			jydUKzXmhiKwzna/u00SMbG8EVeoHw/RM9e4hbXfQvQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1333,11 +1181,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nZaIpDg+Qh/DTg3rucmtTrtYHZg=
+			jfh2ODFz7fpDL9GennoRLOh3Sq8=
 			</data>
 			<key>hash2</key>
 			<data>
-			njAJZ1OD8F1Z2H8vioAbG9xwRPpim0K5flYdXC0psdI=
+			Jj2zCfVUtxnlmsfgLHeXiZq1kn9UkimTGZ9F8ctGh7I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1346,11 +1194,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nZaIpDg+Qh/DTg3rucmtTrtYHZg=
+			jfh2ODFz7fpDL9GennoRLOh3Sq8=
 			</data>
 			<key>hash2</key>
 			<data>
-			njAJZ1OD8F1Z2H8vioAbG9xwRPpim0K5flYdXC0psdI=
+			Jj2zCfVUtxnlmsfgLHeXiZq1kn9UkimTGZ9F8ctGh7I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1359,11 +1207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nZaIpDg+Qh/DTg3rucmtTrtYHZg=
+			jfh2ODFz7fpDL9GennoRLOh3Sq8=
 			</data>
 			<key>hash2</key>
 			<data>
-			njAJZ1OD8F1Z2H8vioAbG9xwRPpim0K5flYdXC0psdI=
+			Jj2zCfVUtxnlmsfgLHeXiZq1kn9UkimTGZ9F8ctGh7I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1372,11 +1220,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G8eKyspojCu7Om8seI/0+PjRw+4=
+			/g7wuwSDHPrL2IZ/HGS7bIK3AxI=
 			</data>
 			<key>hash2</key>
 			<data>
-			HjKDCpjEPU6Mao6ZnqjrcJ8qiR7MjK4U8UUoIR9b8lw=
+			dqudRDqd/2vatHCsIAWO5T9VvuJsW2pL0wswju7MNtE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1385,11 +1233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7tMg7n8yxwyv0ERODAGbx/pLiwQ=
+			CjD0bv4XghDkxisx5JCsl8KCukk=
 			</data>
 			<key>hash2</key>
 			<data>
-			SSYRVMKbTOMso8NihzVLDTiKerzae1J2TPVp1tc6fkI=
+			sLJtJjXBZPfE9CeZZmLd6bvyWhDuLKCA0Fk51D4Hl7E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1398,11 +1246,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7tMg7n8yxwyv0ERODAGbx/pLiwQ=
+			CjD0bv4XghDkxisx5JCsl8KCukk=
 			</data>
 			<key>hash2</key>
 			<data>
-			SSYRVMKbTOMso8NihzVLDTiKerzae1J2TPVp1tc6fkI=
+			sLJtJjXBZPfE9CeZZmLd6bvyWhDuLKCA0Fk51D4Hl7E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1411,11 +1259,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NTHoxBrejjnE7OK+6UyKOO6MeNk=
+			eF0hOjM/8QPLm669cvpv1hwraMc=
 			</data>
 			<key>hash2</key>
 			<data>
-			IazIGHjn7qBFe+NDsfKNYSyjramfGVwuoHuwB20fAGg=
+			n+PKvuzn9LJ6z+hRXO5bul/AsE6726TjwghE2luAdMg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1424,11 +1272,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			l6WFUoVgFTaoG6DbmZMbtMnNZOI=
+			R3V2N6uZ4G+JA2S6UOa6oJ8+oCs=
 			</data>
 			<key>hash2</key>
 			<data>
-			nOqt/kszfINOHeeHdx6BdWpSehYo8wspGrRMps0uYMI=
+			0Qmysl0c2M2WzdoybUtWYEKNKMvLyGnOhpbld/rxniU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1437,90 +1285,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rikMTc8Q8EkSKkZcWsaFwL5Fe0s=
+			aLKhE3wtTPJ0MzE+X0pnmnaqHwQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ou9V05E8axrcm5GPSbZ6AFJ+EFWmAuBlYEqeC2MlaL8=
+			rEEtFAk6d6XebDESSfmVzSFfG/1v+zuvds3xIk1c3Lc=
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_56x20_with_2_stroke_color_60x22pt.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lWU896xwL3SLIZLg+7D/xq513Fo=
-			</data>
-			<key>hash2</key>
-			<data>
-			roTh2VVKchDEPJ+/l2y4PP2bzbhC6pYahcaosVRqQzA=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_56x20_with_2_stroke_color_60x22pt@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			v+0eL+50PmIHMZZ9P6ZrYr45KyI=
-			</data>
-			<key>hash2</key>
-			<data>
-			xexvCrEP9hUrlRjQmK0uDSTbBi+iUkyMWsDdj2s9+MQ=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_56x20_with_2_stroke_color_60x22pt@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9c4uw/pktmnx83deYk0ZWme/Q8g=
-			</data>
-			<key>hash2</key>
-			<data>
-			WhqvqvU9j3aEOO2defEHeg1iPQ0EzWFuZIqCXnH5avE=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_light_56x20_with_2_stroke_color_60x22pt.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KZ8dq6mWFTrtvTiwc6bjUEf26Sk=
-			</data>
-			<key>hash2</key>
-			<data>
-			kCtZyXyTIedMDevjfKOR8vUEKtrRcvSxsP1hmXFw9KQ=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_light_56x20_with_2_stroke_color_60x22pt@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5S3UbS78YwaHrQsjxozZP/AKE/c=
-			</data>
-			<key>hash2</key>
-			<data>
-			/s3JUegcy/HnWINv3jTSAUJsNQbc0GWaCuDWJrciK9o=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/googlelogo_light_56x20_with_2_stroke_color_60x22pt@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XOZQTYWmm0P60VrSU/6Vr7WTiyA=
-			</data>
-			<key>hash2</key>
-			<data>
-			nbzJld2+fQI787S0A9hxEfRjWzmWiU9WGPFSgQMtwjc=
-			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/he.lproj/GMSCore.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jIpCzJ5KR4IsplDy3/S22Stcz/s=
+			Z8YakYpeJ74mBtRjdxQbotf1gUY=
 			</data>
 			<key>hash2</key>
 			<data>
-			rsooRYKD0ba1z6ZL4lDkU1ekxKV1ytxy/9OeGxt6kaQ=
+			yHBfxC3TWtHvZwdAq0uitPdiMzzxtzMDEvz6Gi5PGY0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1529,11 +1311,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NPDDYOVBBiOhBkcGqCKr4HyDRmA=
+			+gnHQL9qvnwUssR4jV9jXXUDNKw=
 			</data>
 			<key>hash2</key>
 			<data>
-			oAL4LrdOVzRLVWP6LBl7TKec3T9vssI0+Qwm9tWYhU4=
+			ghLiTisRSOx0YhNgX90nt6RtOj4htyWjnEonB/loOSA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1542,11 +1324,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BuDIiWoIBQf8hTFyjtHJIOwHdAc=
+			oRA9SVBzD0FH63e35L2aa6gluxI=
 			</data>
 			<key>hash2</key>
 			<data>
-			olD9qA6pykuaQSCAjaQVXJJZzs+YiyGWffjb0QKa02U=
+			T29hqy1kgPV7dDsMKI5wjkB9gAfHgWpAvlfaFQbftBc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1555,11 +1337,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zx0a4L5j8kgiIdOeCyWId9hjD60=
+			b8yOw8XSqZIgH8KtJwEF5TzOuXo=
 			</data>
 			<key>hash2</key>
 			<data>
-			jPX+xl1ggkLg1cYGFXDKtPSd8pora8GtLrsGghmVN1Y=
+			bD27+PGMNgvqo93QuJ5XosVuKzCipufiS3npusMiL3M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1584,6 +1366,72 @@
 			<key>hash2</key>
 			<data>
 			l7DXZC/yFWAiJnn1y7b8MOf2wCeJgHDmWYdKB5lMTS8=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/WPXm9lH4rlc3x4vdnr7k2RHkEg=
+			</data>
+			<key>hash2</key>
+			<data>
+			0TDx02zeOyLukli+xhvRlGoyfDPfmHWEXjHT3uzpDk8=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zbZAM7mPNNvouB2QcXsTxOCJtxQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			H8OXFdacv5KzG+qLR5RrChts7GKxClFlKqHyXNg/6qA=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P08jpJQZdro2N5VhzgQnu+jsSZk=
+			</data>
+			<key>hash2</key>
+			<data>
+			z9EXEDKpCzvyZ7kGENSEXZznpcbyINaD1V8HSi9sgSs=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xh3gGmRY86tJc5Lh3Nd6zBYqSbs=
+			</data>
+			<key>hash2</key>
+			<data>
+			JtnHExDZopxjHDdkxKvEUTYb16WTqGyOKzA5Al5e17k=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NTF65BOR+sJY4SRV1e2mgkz9kmc=
+			</data>
+			<key>hash2</key>
+			<data>
+			yRv8itmfa+f7QkgZ03TsPrjc+YcMHHZz9Oxeuc5C+I4=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rQpisYk5GDcvEAM1KX1zN7Tk0UE=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kswz6NBndW1QRhKZxc87C8BWIjBoKm5mPxHp6tqgvug=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_qu_direction_mylocation.png</key>
@@ -1623,11 +1471,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L7iXQgXwSZoHA6HKXtVT8kKJ760=
+			DGoDMQacCNB0oPp4wYW7CLqThFg=
 			</data>
 			<key>hash2</key>
 			<data>
-			NP23KdXVaH9e5Kbli5BH0Tm7qC/2Bc8FsX2qTwzlNmU=
+			/b+F/aSXeFK9Z9UKohgLs41Zibt1PdNuGbOD3pXu+mQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1636,11 +1484,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hiGNzCfZf867+dyUPDBOrfFtq48=
+			eJ5vMZ8gFP6NgflPNaoyGQPjNXI=
 			</data>
 			<key>hash2</key>
 			<data>
-			91GMFee9tdxsZw+1pUIQcUJy/Yvn+CrEQDAJDCK14lo=
+			LZM3GD76O4iJxmKVikAFWBZSb68SB3XEurfZIyDh3JY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/iw.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z8YakYpeJ74mBtRjdxQbotf1gUY=
+			</data>
+			<key>hash2</key>
+			<data>
+			yHBfxC3TWtHvZwdAq0uitPdiMzzxtzMDEvz6Gi5PGY0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1649,11 +1510,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P6tuz4DCMNB7O/xn8YBBE5KAlaA=
+			5aUsiOJsl/e/gNPmDqk7+v4wWPk=
 			</data>
 			<key>hash2</key>
 			<data>
-			bG+l852S3NxEYKBWt/GBPPCJ04i9ShjSJEC81urr204=
+			JDUnT8eAcArDeSl5V0aO+HR282va5GcF/V5Ya7M+L+I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1662,11 +1523,37 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			92jbhfPU3N0UjoLFHop8IGHwhvg=
+			Eus5ldEjVvJiowLPTYTRJSdN+ts=
 			</data>
 			<key>hash2</key>
 			<data>
-			GFJjX2OBc6qfg32aVBmAO/9YCqygVpGzeBwm4C8NAsw=
+			BsuyNCQunxQEmcbmgZ0eq5I0pRJ2F7xzkbES2Rt4WoQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/lt.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BU0+A/RFt/19L9p2YspPbyHla54=
+			</data>
+			<key>hash2</key>
+			<data>
+			jydUKzXmhiKwzna/u00SMbG8EVeoHw/RM9e4hbXfQvQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/lv.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BU0+A/RFt/19L9p2YspPbyHla54=
+			</data>
+			<key>hash2</key>
+			<data>
+			jydUKzXmhiKwzna/u00SMbG8EVeoHw/RM9e4hbXfQvQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1675,11 +1562,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pyEv7T2AcOr5s9PLHabH6C+x7Y8=
+			fqIOQSiFX3jQSN3AwloR2o/cUwI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sbjg9NEtwFSdCuoCaP1Cn5p0ea9UdxWim5SMGx3Unjc=
+			bt7B+j/mpLje4bPy5kvGawPdYJr04yxLcpaTPgPjbcE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1688,11 +1575,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xt0az3UZvMKfQH2I41uXUt3sTXg=
+			hZjJchQ4lkm7GtJbpGNy8GPDPug=
 			</data>
 			<key>hash2</key>
 			<data>
-			6ndkj/9r5UO2+DT1O+aUwTCCkAL0vzbBqelwUlYlkzQ=
+			dRAqU5B6GdBH+kBNnWBsmAuP0HQZfssxt7XVcisu8e4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1701,11 +1588,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+WeItWOOYZ/+no75wjSkySL0J1Q=
+			vmRhLnh9cAGvbEVdb3PJnwAG8FU=
 			</data>
 			<key>hash2</key>
 			<data>
-			vqd7NIN66lBoECSNrpyG0onbhuqB4pw9LjhhHVKsifY=
+			39YSILYHPw6VtZsSpqHtv9DUDYHwjgKjKYmXlXBKtyg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/no.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hZjJchQ4lkm7GtJbpGNy8GPDPug=
+			</data>
+			<key>hash2</key>
+			<data>
+			dRAqU5B6GdBH+kBNnWBsmAuP0HQZfssxt7XVcisu8e4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1714,11 +1614,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HneGLTsNubqt6NOPHQQ5q4L1b0w=
+			jCpr3kLwg2ciBN0avBI0gd+fX6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			GPXsKIKry3ZWNMJn0WnGHZ8RIrEeUyWDabMevyAFKPc=
+			4rUQw+6obb+8335iKCsCDZBPwgQlVTHnLd4SjN5Qlmo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1749,11 +1649,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NwLPbOEH66amXy+PYXr5chLTHEc=
+			OKQY1LPS+Imp4HRwgsjqpfzutSo=
 			</data>
 			<key>hash2</key>
 			<data>
-			5IfQBovtnfpop45zakayQZctbL6g62WDGLMkSWPcpR8=
+			ygqbmW3OqqcpfBh1yoS04W3Ffrzp+sjwIn080G3POJQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1762,11 +1662,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NwLPbOEH66amXy+PYXr5chLTHEc=
+			OKQY1LPS+Imp4HRwgsjqpfzutSo=
 			</data>
 			<key>hash2</key>
 			<data>
-			5IfQBovtnfpop45zakayQZctbL6g62WDGLMkSWPcpR8=
+			ygqbmW3OqqcpfBh1yoS04W3Ffrzp+sjwIn080G3POJQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1775,11 +1675,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			574RvWkXvd/dyQrtUt8cm7iWVYI=
+			dcoy5b/xFMVDfHGT4Nz7LSlMgCA=
 			</data>
 			<key>hash2</key>
 			<data>
-			XB98xTmuaF7TyDD2g8f6KbtfUfgweAvno8qhFej+TKw=
+			5x1zWD5JjYgxUDzXqRZxUVDPnvcsE6y1hZ26NHoc2Vo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1788,11 +1688,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lPL3kknZE5CxtprTUCO1IsDhLmg=
+			lv5kkI4auFNhxAZx6m5a/OYRfb8=
 			</data>
 			<key>hash2</key>
 			<data>
-			elkqmwKChViwEFtvH4O0umiJkglN9KSVW9LvmWfHl8w=
+			kdj++WpRJSmq+BrZl0J/8rNhwTEp9D+Qc8n/F8+jzE0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1801,11 +1701,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0ZG8wq8LpZA/yvyC01oYTEnsEao=
+			HG4lAzW99jq1X860ruCadRTP1JI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gooqe8fh4kr7QjI9dHgrd4cBKdjXFymhTFHDIaxCLZI=
+			lzM7SlPvx18FzuOhp0AfctCjH872VUYhotrEmV/bjj8=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_128-32.png</key>
@@ -1834,11 +1734,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T/MpxrZZySECP+8RGSX0vkSPfjM=
+			liaTlaCHAiLcpdhS15/FoNQuex8=
 			</data>
 			<key>hash2</key>
 			<data>
-			AQEH4C0hIOZ6c3foLP22DXVVhShtpI1RUrcmTYyb6sg=
+			locpte2xHJxxYikj3vpYPAO4Fm0BJbKH3qAMUEHC6AQ=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_256-64.png</key>
@@ -1900,11 +1800,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3AIZIRJ5zgYrnhzT9UN9BQIFmqI=
+			mH1dU/jokm+I7pA7uBkaijO2Zx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			pw+KcPGkgZFZrrnrXo6rAVuocO12WFfq3sb1Ym1PNxU=
+			/nY6fFfxBvEtyAiS7DqEgus7WKBRgq4ZBz9AIYbBBPg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1913,11 +1813,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IHpwQjnwLnArxfOUowRbk81A+V4=
+			buHpYOT6zOfqQfNP6nm0IX9wgmw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ie6Q7gbSuoEDmHQYHnGLp0STggAucS75VN3AR6/94bs=
+			peyVl98gjGylkysTeGeeTpyvx9ii7otNy2YwhPyFhTg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1926,11 +1826,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vhHj2Gt7Px1tO0bonogVaPG4DuY=
+			TEjgAiUC0CtoUXhuPOWGXKHPw1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			kwkdB5X+zpl+Y4qVhFv+hi16FRq4e/NIeMfl7akOQlQ=
+			GeZONkmfgaP2yyCIf05XZfJqt0gYWLeG0s/1e5IG8VY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1939,11 +1839,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WqyEjizVPKcTEsguw07bpvmRUI8=
+			EoBmwF308UyW1WbdxMChSiS7PcI=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZmZbVklO+HIbxosq+Ea/jkshjySht0D+t6TKC1QHeAs=
+			76v1EKdJXy30T6gwm8LkRy6csT46ITHAbjlFEGrJqjs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1952,24 +1852,68 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BB34RliYpe60FI6Kbi4NZHBI+jk=
+			JtZkhYz/JUBGEKsI57iE8qbnqOY=
 			</data>
 			<key>hash2</key>
 			<data>
-			bgtZh74N/4+JsyI1NseZo44CCbjqtffWSejSH5/eoIs=
+			5vUCF5JnXWRilEw1A3C3SQKAsJKGUtlJbMrDUiBMe4Q=
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_endcap.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JMIzIZ9izwPLkFbGpybEDcjnz7c=
+			</data>
+			<key>hash2</key>
+			<data>
+			LRveTLcg79RcFKLPlICnbpy9cMLFjvpirtWiug8ENh4=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_greyscale1.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n/rXdJIMAIb8p0IhcrLQAREUhoQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			rT5b4IGhFoNszwzcLjPiQkZFx5NnYALJF6zZaCYLQkM=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_greyscale2.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D8Wb/FHzbrCFMy6Hzt0pOxO+pZI=
+			</data>
+			<key>hash2</key>
+			<data>
+			3lUoalvScQWDjlW5O9/eAr9D9T4SvFiJEeMfeUH+HLk=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_startcap.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G+epinU1D/ABNNd9znBSZ13ndrE=
+			</data>
+			<key>hash2</key>
+			<data>
+			sjvl6HdTaXxkEnfXJPwFre8lYgfOf9V+C6R4DAut5Z4=
+			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj/GMSCore.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z1kFvyOJE72XNz/gqUVozUIFs4Q=
+			+ELQYCw4FcX+et9rNv435r2EZ0Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			Akps9jqfDpE1cydHSfvEtyY6S1N40WZaOoEeaP1WZY8=
+			R1pLOKON2Dk8reivKMM2dCWZkmlRFqkHFnbBOV1EL1k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1978,11 +1922,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vpJh7vOBh4YJe/M3aKdWMcA+7Pc=
+			mMZ4TFIG1fgqJ8y8o44Mir4mvy8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Cq8sQezVmVvURzACS8/ejZsF/42vex13Wv/UUenNhlM=
+			jf5vW1i+1SeOEK0+UqXe/xiYYv5a4IXUMF/LaxARu9s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1991,11 +1935,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xnJO4XyTEa8sJt7VzPcp2HV+K9M=
+			xoWhLA0ZAVjChXCi0M5/LNxRIZU=
 			</data>
 			<key>hash2</key>
 			<data>
-			dCyzsiQ+4MkGKYyhMCpCKZCgjroc1mf5RvB8laZJ2/0=
+			P/IBSLFTQ9ALHe5udXnxVmsBwWHeYBX4x2aE067LSNY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2004,11 +1948,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V4yVOW9c65c+6F25XWq7BlQMUss=
+			lhat6H6MBYoxbkBaAJTfUdzXqWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			xjmh7Jdc/8Hayk72cJerQzgHKbZDKwqxXM2plxIuqOk=
+			NCT2FV0sTpuGXh+lUE1yNJ+zrsYYeW0/omO2DlSSmxI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2017,11 +1961,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TtXukrcmLiGTLTHPp9VESlHrYLc=
+			wqVbFC3zVq17mLqtA9m88YpX+EA=
 			</data>
 			<key>hash2</key>
 			<data>
-			4UZXaip4nE5KqP92yRj4IsfwitxJ4ZCgGD197P48TsE=
+			0RSjaDrsEtsihrkhv/M5wSCKPsNJ2ur0YeXCjWCqpas=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2030,11 +1974,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KQHmUtFCWEiHhlYYakEc2iV+gYw=
+			coB5vGsCwkMsak7a8T4sMhUAhfc=
 			</data>
 			<key>hash2</key>
 			<data>
-			AMoZaAdMmA+V7OoTlEgkdvwVkB8VQAex7kXmBsug/8M=
+			rX4iZdRSn0sojiFHxXj2i1t8+lOJDxqaSLbsJa0tVRg=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/bubble_left.png</key>
@@ -2136,28 +2080,15 @@
 			1BkoJJb2dqwexjO+CH6Sxg71FCIZJbrnc2KrXTJ6Va4=
 			</data>
 		</dict>
-		<key>GoogleMaps.bundle/en.lproj/InfoPlist.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zmV6UqBSo6r1NOz798vd5O4zTBA=
-			</data>
-			<key>hash2</key>
-			<data>
-			kmHsztpgjvF0JW5f3HdMHm49z1M0CcG8OT1JDQHHE/E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>GoogleMaps.bundle/oss_licenses_maps.txt.gz</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GLyUZnNtIm1BmwHO+H9THgRObOA=
+			Kj6ixJMHtndv37xT7AFZAQBgKic=
 			</data>
 			<key>hash2</key>
 			<data>
-			XH8NqNaltYPAGnj3opCKtmIeTm2k7/QreMC9ynRqRkg=
+			DXQ4sOleVe+NnnezsCMWzD636T2Fz10D/+kZS6n5w8M=
 			</data>
 		</dict>
 		<key>Headers/AeroMapSDK.h</key>
