@@ -169,6 +169,10 @@ typedef enum {
  */
 @property(nonatomic, strong) id userData;
 
+/**
+ * Provides the Core Animation layer for this UCMarker.
+ */
+@property(nonatomic, strong, readonly) CALayer *layer;
 
 /*!
  *  \~chinese
