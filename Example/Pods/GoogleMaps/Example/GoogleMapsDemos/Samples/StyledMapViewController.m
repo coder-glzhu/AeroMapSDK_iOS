@@ -89,7 +89,7 @@ static NSString *const kNoPOIsType = @"No business points of interest, no transi
   _mapView.mapStyle = _retroStyle;
 
   UIBarButtonItem *styleButton = [[UIBarButtonItem alloc] initWithTitle:@"Style"
-                                                                  style:UIBarButtonItemStylePlain
+                                                                  style:UIBarButtonItemStyleBordered
                                                                  target:self
                                                                  action:@selector(changeMapStyle:)];
   self.navigationItem.rightBarButtonItem = styleButton;
