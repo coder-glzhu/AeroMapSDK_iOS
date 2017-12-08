@@ -2,7 +2,6 @@ desc "提交一个私有库"
 lane :AutoPod do |options|
 target_version = options[:t]
 project        = options[:p]
-verbose        = options[:v]
 path           = "#{project}.podspec"
 
 cocoapods(
@@ -24,8 +23,7 @@ push_to_git_remote # git push --tags
 pod_push(
 path: path,
 allow_warnings: true,
-use_libraries: true,
-verbose: verbose
+use_libraries: true
 ) # 提交到私有仓库
 
 end
