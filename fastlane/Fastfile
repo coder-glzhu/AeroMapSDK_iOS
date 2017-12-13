@@ -2,6 +2,7 @@ desc "提交一个私有库"
 lane :AutoPod do |options|
 target_version = options[:t]
 project        = options[:p]
+git_message    = options[:m]
 path           = "#{project}.podspec"
 
 cocoapods(
@@ -9,7 +10,7 @@ clean: true,
 podfile: "./Example/Podfile"
 )  # pod install 重新安装一下代码
 git_add(path: ".") # git add .
-git_commit(path: ".", message: target_version) # git commit -m 'xxx'
+git_commit(path: ".", message: git_message) # git commit -m 'xxx'
 push_to_git_remote # git push origin master
 
 if git_tag_exists(tag: target_version)
