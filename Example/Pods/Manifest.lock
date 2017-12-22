@@ -1,5 +1,5 @@
 PODS:
-  - AeroMapSDK_iOS (1.0.2):
+  - AeroMapSDK_iOS (1.0.3):
     - GoogleMaps (~> 2.2.0)
     - XMNetworking
     - YYCache
@@ -26,7 +26,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  AeroMapSDK_iOS: 7b00e48cf949f4431acf337ca7fb07aae2bd712e
+  AeroMapSDK_iOS: 0848c787baa20751ace7046aa45069c3f25778d4
   GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
   XMNetworking: bcc1d167c4386fb6bfefb0d6c7087f09333c2e09
   YYCache: 8105b6638f5e849296c71f331ff83891a4942952
