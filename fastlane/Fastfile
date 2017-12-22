@@ -5,6 +5,11 @@ project        = options[:p]
 git_message    = options[:m]
 path           = "#{project}.podspec"
 
+if git_tag_exists(tag: target_version)
+UI.message("已经存在这个标签, 处理操作: 删除本地&远程标签#{target_version} 🚀")
+remove_tag(tagName: target_version, dR:true, dL:true)
+end
+
 cocoapods(
 clean: true,
 podfile: "./Example/Podfile"
@@ -12,11 +17,6 @@ podfile: "./Example/Podfile"
 git_add(path: ".") # git add .
 git_commit(path: ".", message: git_message) # git commit -m 'xxx'
 push_to_git_remote # git push origin master
-
-if git_tag_exists(tag: target_version)
-UI.message("已经存在这个标签, 处理操作: 删除本地&远程标签#{target_version} 🚀")
-remove_tag(tagName: target_version, dR:true, dL:true)
-end
 
 add_git_tag(tag: target_version) # git tag -a xx
 push_to_git_remote # git push --tags
