@@ -19,11 +19,6 @@ FOUNDATION_EXPORT const unsigned char AeroMapSDKVersionString[];
 //空域类
 #import <AeroMapSDK/AirspaceOverLayer.h>
 
-//聚合
-#import <AeroMapSDK/UCClusterManager.h>
-#import <AeroMapSDK/UCClusterItem.h>
-#import <AeroMapSDK/UCCluster.h>
-
 //地图类
 #import <AeroMapSDK/UCCircle.h>
 #import <AeroMapSDK/UCMapView.h>
