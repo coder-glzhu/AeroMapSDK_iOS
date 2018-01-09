@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <GoogleMaps/GMSServices.h>
 
 @interface AeroMapServices : NSObject
 

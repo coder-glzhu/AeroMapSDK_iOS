@@ -7,7 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-@class UCMapView;
+@class GMSMapView;
+
 typedef NS_ENUM(NSUInteger, AirspaceOverLayerName) {
     AirspaceOverLayerNameNone = 0,
     AirspaceOverLayerNameRestricted = 1 << 0,        //限制区
@@ -25,6 +26,7 @@ typedef NS_ENUM(NSUInteger, AirspaceOverLayerName) {
     AirspaceOverLayerNameAirportJB = 1 << 12         //军备机场
 };
 
+
 @interface AirspaceOverLayer : NSObject
 
 /**
@@ -33,7 +35,7 @@ typedef NS_ENUM(NSUInteger, AirspaceOverLayerName) {
  @param mapView 地图对象
  @return 图层实例
  */
-+ (instancetype)overLayerWithMapView:(UCMapView *)mapView;
++ (instancetype)overLayerWithMapView:(GMSMapView *)mapView;
 /**
  * 调用此方法根据传入的枚举类型添加不同的图层
  @param layerName 图层名称

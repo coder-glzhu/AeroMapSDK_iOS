@@ -16,35 +16,9 @@ FOUNDATION_EXPORT const unsigned char AeroMapSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <AeroMapSDK/PublicHeader.h>
 
-//空域类
+
 #import <AeroMapSDK/AirspaceOverLayer.h>
-
-//地图类
-#import <AeroMapSDK/UCCircle.h>
-#import <AeroMapSDK/UCMapView.h>
-#import <AeroMapSDK/UCPolygon.h>
-#import <AeroMapSDK/UCPolyline.h>
-#import <AeroMapSDK/UCOverlayer.h>
-#import <AeroMapSDK/UCMarker.h>
-#import <AeroMapSDK/UCPath.h>
-#import <AeroMapSDK/UCMutablePath.h>
-#import <AeroMapSDK/UCDrawRangeResult.h>
-#import <AeroMapSDK/UCDrawToolsClass.h>
-#import <AeroMapSDK/UCDrawToolsDelegate.h>
 #import <AeroMapSDK/AeroMapServices.h>
-#import <AeroMapSDK/UCDownloadArea.h>
-#import <AeroMapSDK/UCDownloadOfflineMap.h>
-#import <AeroMapSDK/UCSelectArea.h>
-#import <AeroMapSDK/UCCustomComponent.h>
-#import <AeroMapSDK/UCDownloadManager.h>
-#import <AeroMapSDK/UCCoordinateBounds.h>
-
-//地图动画
-#import <AeroMapSDK/UCMapView+Animation.h>
-
-//工具类
-#import <AeroMapSDK/UCGeometryUtils.h>
-#import <AeroMapSDK/UCUISettings.h>
-
+#import <AeroMapSDK/AeroMapView.h>
 
 
