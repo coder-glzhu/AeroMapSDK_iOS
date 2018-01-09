@@ -7,6 +7,7 @@
 //
 
 #import "kViewController.h"
+#import <AeroMapSDK/AeroMapSDK.h>
 
 @interface kViewController ()
 
@@ -17,7 +18,14 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	
+    AeroMapView *mapView = [[AeroMapView alloc] init];
+    mapView.frame = CGRectMake(0, 0, self.view.bounds.size.width, self.view.bounds.size.height);
+    [self.view addSubview:mapView];
+    
+    AirspaceOverLayer *lay = [AirspaceOverLayer overLayerWithMapView:mapView.mapView];
+    [lay addOverLayerWithlayerName:(AirspaceOverLayerNameFreeZone|AirspaceOverLayerNameDangerous)];
+    
 }
 
 - (void)didReceiveMemoryWarning

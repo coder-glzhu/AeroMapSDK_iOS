@@ -7,12 +7,16 @@
 //
 
 #import "kAppDelegate.h"
+#import <AeroMapSDK/AeroMapSDK.h>
 
 @implementation kAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    [AeroMapServices provideAPIKey:@"e9f693b2-8929-4574-b8cb-5dafc29e485b"];
+    
     return YES;
 }
 
